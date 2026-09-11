@@ -2,6 +2,7 @@ package week01;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        var e = new Manager( "Jhon", 10000);
+        System.out.println(e);
     }
 }
