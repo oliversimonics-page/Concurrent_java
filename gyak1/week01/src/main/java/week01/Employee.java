@@ -1,6 +1,6 @@
 package week01;
 
-public abstract class Employee {
+public abstract class Employee implements SalariedEntity{
     protected String name;
     protected int salary;
 
