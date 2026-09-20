@@ -27,15 +27,4 @@ public class Exper {
         world.join();
     }
 
-    private  class TextRunnable implements Runnable {
-        private TextRunnable() {
-            this.name = "";
-        }
-
-        @Override
-        public void run() {
-            
-        }
-    }
-
 }
